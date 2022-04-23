@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-04-21T01:08:52-07:00
-draft: true
+draft: false
 ---
 >*"The sky was the color of a television, tuned to a dead channel"*
 >
