@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ~/deadchannel</title>
+    <link>https://deadchannel.xyz/posts/</link>
+    <description>Recent content in Posts on ~/deadchannel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Noble</copyright>
+    <lastBuildDate>Thu, 21 Apr 2022 01:26:19 -0700</lastBuildDate><atom:link href="https://deadchannel.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo and Git and Netlify Oh My</title>
+      <link>https://deadchannel.xyz/posts/hugo-and-git-and-netlify-ohmy/</link>
+      <pubDate>Thu, 21 Apr 2022 01:26:19 -0700</pubDate>
+      
+      <guid>https://deadchannel.xyz/posts/hugo-and-git-and-netlify-ohmy/</guid>
+      <description>Holy shit, this has been a test of fortitude. Every video, every post, every how-to, has been from a different operating system, different text editor/IDE, different versions of software (my first build was borked from install. It only took me two days to figure that oen out). Anyway, here it finally fucking is. My stupid self-important blog about god knows what. All I know, is that I need a proverbial toilet to spew my garbage, or else it becomes infectious and I get radioactive.</description>
+    </item>
+    
+  </channel>
+</rss>
