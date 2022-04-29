@@ -7,7 +7,7 @@ draft: false
 >
 >>William Gibson  *Neuromancer*
 
-![Noble as TV Head](/home/sean/deadchannel/content/posts/images/tvhead.jpeg)
+![Noble as TV Head](/img/tvhead.jpeg)
 
 I am Noble. At least that what a handful of people still call me, at least when we're in private. I had originally written a very pointed and telling bio for myself, in third person of course, that outlined my life, warts and all. But then I thought about it. If I really wanted to put myself out there, I would probably use my bith name. Not that I am trying to hide, but that I want a place where I can write honestly and authentically. 
 

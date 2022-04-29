@@ -3,7 +3,7 @@ title: "The Mall"
 date: 2022-04-25T14:16:54-07:00
 draft: false
 ---
-![猫 シ Corp. "Palm Mall"](/home/sean/deadchannel/content/posts/images/tvhead.jpeg)
+![猫 シ Corp. "Palm Mall"](/img/palmmall.jpg)
 
 I had to go to the ear doctor today. I have fucked up ears, so I am a regular at my ENT clinic. The clinic is way off the beaten path, and I always have to walk through the parking lot of the Clackamas Town Center, between the lightrail and the clinic. It has become a normal thing for me to go to Barnes & Noble their to pick up the latest copy of the Atlantic with hopes of impressing the pretty girls answering the phones at the doctors office. Today, my appointment was earlier than usual, so I figured I would walk a lap of the mall and see what the "mall world" is like. 
 
