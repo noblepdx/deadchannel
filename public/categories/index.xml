@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ~/deadchannel</title>
+    <title>Categories on deadchannel</title>
     <link>https://deadchannel.xyz/categories/</link>
-    <description>Recent content in Categories on ~/deadchannel</description>
+    <description>Recent content in Categories on deadchannel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Noble</copyright><atom:link href="https://deadchannel.xyz/categories/index.xml" rel="self" type="application/rss+xml" />

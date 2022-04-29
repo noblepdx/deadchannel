@@ -1,6 +1,6 @@
 baseURL = "https://deadchannel.xyz"
 languageCode = "en-us"
-title = "~/deadchannel"
+title = "deadchannel"
 theme="archie"
 copyright = "© Noble"
 # Code Highlight
