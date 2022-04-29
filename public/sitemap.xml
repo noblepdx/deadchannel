@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://deadchannel.xyz/posts/hugo-and-git-and-netlify-ohmy/</loc>
-    <lastmod>2022-04-21T01:26:19-07:00</lastmod>
-  </url><url>
     <loc>https://deadchannel.xyz/posts/</loc>
+    <lastmod>2022-04-25T14:16:54-07:00</lastmod>
+  </url><url>
+    <loc>https://deadchannel.xyz/posts/the-mall/</loc>
+    <lastmod>2022-04-25T14:16:54-07:00</lastmod>
+  </url><url>
+    <loc>https://deadchannel.xyz/posts/youtube-addiction/</loc>
+    <lastmod>2022-04-25T01:12:57-07:00</lastmod>
+  </url><url>
+    <loc>https://deadchannel.xyz/posts/hugo-and-git-and-netlify-ohmy/</loc>
     <lastmod>2022-04-21T01:26:19-07:00</lastmod>
   </url><url>
     <loc>https://deadchannel.xyz/about/</loc>
